@@ -1,0 +1,16 @@
+{
+  "nodes": {
+    "servernode01": {
+      ":ip": "192.168.32.5",
+      ":memory": 4096,
+      ":bootstrap": "bootstrap-scripts/bootstrap-puppet-server.sh",
+      ":box": "ubuntu/xenial64"
+    },
+    "agentnode01": {
+      ":ip": "192.168.32.10",
+      ":memory": 512,
+      ":bootstrap": "bootstrap-scripts/bootstrap-puppet-agent.sh",
+      ":box": "ubuntu/xenial64"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"params": 
+	{
+  		":PUPPET_CONF": "/etc/puppetlabs",
+  		":PUPPET_BIN": "/opt/puppetlabs/bin",
+  		":PUPPET_DEB": "https://apt.puppetlabs.com/puppet5-release-xenial.deb",
+  		":SERVER_NODE_HOSTNAME": "servernode01",
+  		":SERVER_NODE_IP": "192.168.32.5",
+  		":AGENT_NODE_HOSTNAME":"agentnode01",
+  		":AGENT_NODE_IP": "192.168.32.10"
+	}
+
+}

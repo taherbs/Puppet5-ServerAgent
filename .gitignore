@@ -1,0 +1,7 @@
+# ignore Mac file
+.DS_Store
+#Ignore auto generated Vagrant files
+.vagrant
+#Ignore project folder
+icinga_stuff
+*.log
