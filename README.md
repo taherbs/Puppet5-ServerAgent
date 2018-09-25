@@ -1,4 +1,5 @@
 ## Vagrant - Puppet5 server/agent
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/taherbs/Puppet5-ServerAgent/master/LICENSE)
 
 A Vagrant environment to deploy a puppet5 server/agent lab environment.<br />
 * Server Node runs on **Ubuntu16.04**.
